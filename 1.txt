@@ -8,4 +8,5 @@ sence today,
 you are my all happiness~
 
 This is master Test branch
+This is a Hot-fix branch
 I Love ZHW
